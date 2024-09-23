@@ -1,0 +1,30 @@
+{
+  "last_name": "Фамилия",
+  "first_name": "Имя",
+  "patronymic": "Отчество",
+  "birth_date": "1990-01-01",
+  "credential": [
+    {
+      "credential_type": "RUSSIAN_INTERNAL_PASSPORT",
+      "issue_date": "2017-03-08",
+      "issue_point": "УФМС",
+      "issue_point_code": "123-456",
+      "number": "123456",
+      "series": "1234"
+    }
+  ],
+  "address": [
+    {
+      "address_query": "г Санкт-Петербург, г Ломоносов, ул Швейцарская, д 1 к 1, кв 1",
+      "address_type": "LEGAL_ADDRESS",
+      "region_kladr_id": "7800000000000",
+      "city_kladr_id": "7800000600000"
+    },
+    {
+      "address_query": "г Санкт-Петербург, г Ломоносов, ул Швейцарская, д 1 к 1, кв 1",
+      "address_type": "ACTUAL_ADDRESS",
+      "region_kladr_id": "7800000000000",
+      "city_kladr_id": "7800000600000"
+    }
+  ]
+}
